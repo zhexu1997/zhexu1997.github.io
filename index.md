@@ -15,10 +15,10 @@ In AAAI Conference on Artificial Intelligence (AAAI), 2021.
 
 ### Contests
 
-1. 阿里AI安全挑战者第三期-文本分类对抗攻击
-21/1175
+1. 阿里AI安全挑战者第三期-文本分类对抗攻击.
+21/1175.
 https://tianchi.aliyun.com/competition/entrance/231762/introduction?spm=5176.12281957.1004.9.38b02448yED7zt
 
-2. 腾讯广告算法大赛2020
-151/855
+2. 腾讯广告算法大赛2020.
+151/855.
 https://algo.qq.com/index.html
