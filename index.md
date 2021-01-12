@@ -1,19 +1,19 @@
-## Zhe Xu
+# Zhe Xu
 
 I am now a PhD candidate in School of Electronic Engineering at Xidian University under supervision of Prof.Cheng Deng.
 
 Earlier, I received my B.S. degree from Xidian University in 2019.
 
-### News
+## News
 Dec.2,2020, a paper was accepted to AAAI2021.
 
-### Publications
+## Publications
 
 1. Generalized Zero-Shot Learning via Disentangled Representation,
 Xiangyu Li\*, Zhe Xu\*, Cheng Dneg, and Kun Wei.
 In AAAI Conference on Artificial Intelligence (AAAI), 2021.
 
-### Contests
+## Contests
 
 1. 阿里AI安全挑战者第三期-文本分类对抗攻击.
 21/1175.
