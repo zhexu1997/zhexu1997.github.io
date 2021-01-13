@@ -9,8 +9,8 @@ Dec.2,2020, a paper was accepted to AAAI2021.
 
 ## Publications
 
-1. Generalized Zero-Shot Learning via Disentangled Representation,
-Xiangyu Li\*, Zhe Xu\*, Cheng Dneg, and Kun Wei.
+1. Generalized Zero-Shot Learning via Disentangled Representation.
+Xiangyu Li\*, Zhe Xu\*, Cheng Deng, and Kun Wei.
 In AAAI Conference on Artificial Intelligence (AAAI), 2021.
 
 ## Contests
