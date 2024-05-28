@@ -40,33 +40,32 @@ My research lies at the broad area of artificial intelligence and machine learni
 **Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
   
 [Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization.](https://ieeexplore.ieee.org/abstract/document/10153964/)
 
 **Zhe Xu**, Kun Wei, Erkun Yang, Cheng Deng, Wei Liu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/tmm22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="3">
   
 [Point-Supervised Video Temporal Grounding.](https://ieeexplore.ieee.org/abstract/document/9882521)
 
 **Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/tip22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="4">
   
 [HiSA: Hierarchically Semantic Associating for Video Temporal Grounding](https://ieeexplore.ieee.org/abstract/document/9846867)
 
 **Zhe Xu**, Da Chen, Kun Wei, Cheng Deng, Hui Xue
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/aaai21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="5">
   
 [Generalized Zero-Shot Learning via Disentangled Representation](https://ojs.aaai.org/index.php/AAAI/article/view/16292)
-
+  
 Xiangyu Li*, **Zhe Xu***, Kun Wei, Cheng Deng
-
 
 
 
