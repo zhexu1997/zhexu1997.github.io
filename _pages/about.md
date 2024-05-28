@@ -33,7 +33,7 @@ My research lies at the broad area of artificial intelligence and machine learni
 # 📝 Publications 
 (\* Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\
@@ -43,7 +43,7 @@ My research lies at the broad area of artificial intelligence and machine learni
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons.](https://arxiv.org/html/2401.13363v1)\\
@@ -53,7 +53,7 @@ My research lies at the broad area of artificial intelligence and machine learni
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/tip24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/tip24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Class-Incremental Unsupervised Domain Adaptation via Pseudo-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/10416303)\\
@@ -63,7 +63,7 @@ Kun Wei, Xu Yang, **Zhe Xu**, Cheng Deng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization.](https://ieeexplore.ieee.org/abstract/document/10153964/)\\
@@ -73,7 +73,7 @@ Kun Wei, Xu Yang, **Zhe Xu**, Cheng Deng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/tmm22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/tmm22.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Point-Supervised Video Temporal Grounding.](https://ieeexplore.ieee.org/abstract/document/9882521)\\
@@ -83,7 +83,7 @@ Kun Wei, Xu Yang, **Zhe Xu**, Cheng Deng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/tip22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/tip22.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [HiSA: Hierarchically Semantic Associating for Video Temporal Grounding](https://ieeexplore.ieee.org/abstract/document/9846867)\\
@@ -93,7 +93,7 @@ Kun Wei, Xu Yang, **Zhe Xu**, Cheng Deng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/aaai21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/aaai21.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Generalized Zero-Shot Learning via Disentangled Representation](https://ojs.aaai.org/index.php/AAAI/article/view/16292)\\
