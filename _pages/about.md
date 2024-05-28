@@ -31,6 +31,7 @@ My research lies at the broad area of artificial intelligence and machine learni
 
 
 # 📝 Publications 
+(\* Equal Contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,6 +39,26 @@ My research lies at the broad area of artificial intelligence and machine learni
 [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\
   
 **Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons.](https://arxiv.org/html/2401.13363v1)\\
+
+**Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/tip24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Class-Incremental Unsupervised Domain Adaptation via Pseudo-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/10416303)\\
+
+Kun Wei, Xu Yang, **Zhe Xu**, Cheng Deng
 </div>
 </div>
 
@@ -77,7 +98,7 @@ My research lies at the broad area of artificial intelligence and machine learni
   
 [Generalized Zero-Shot Learning via Disentangled Representation](https://ojs.aaai.org/index.php/AAAI/article/view/16292)\\
   
-Xiangyu Li*, **Zhe Xu***, Kun Wei, Cheng Deng
+Xiangyu Li\*, **Zhe Xu**\*, Kun Wei, Cheng Deng
 </div>
 </div>
 
