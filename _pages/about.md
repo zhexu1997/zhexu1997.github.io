@@ -34,17 +34,13 @@ My research lies at the broad area of artificial intelligence and machine learni
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
 [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng
+\**Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
-  
 [Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization.](https://ieeexplore.ieee.org/abstract/document/10153964/)
-
-**Zhe Xu**, Kun Wei, Erkun Yang, Cheng Deng, Wei Liu
+\**Zhe Xu**, Kun Wei, Erkun Yang, Cheng Deng, Wei Liu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/tmm22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="3">
