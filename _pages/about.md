@@ -36,7 +36,7 @@ My research lies at the broad area of artificial intelligence and machine learni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\
+[Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://aclanthology.org/2024.acl-long.247.pdf)\\
   
 **Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng\\
 
