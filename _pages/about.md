@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research lies at the broad area of artificial intelligence and machine learning. I am interested in multi-modal learning, video understanding, and transfer learning, including video temporal localization, cross-modality generation, zero-shot learning, etc. I am also interested in AI4Science to build computer models for scientific discovery and innovation in fields such as bioinformatics and physics.
+I am a Post-doc Fellow at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), working with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained my PhD from the School of Electronic Engineering, Xidain University, supervised by Professor [Cheng Deng](https://see.xidian.edu.cn/faculty/chdeng/). My research lies at the broad area of artificial intelligence and machine learning. I am interested in multi-modal learning, video understanding, and computational pathology
+.
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 one paper was accepted to ACL2024.
-- *2024.01*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process.(TIP).
-- *2023.06*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Pattern Anal. Mach. Intell.(TPAMI).
-- *2022.08*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Multimedia(TMM).
-- *2022.07*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process.(TIP).
-- *2020.12*: &nbsp;🎉🎉 one paper was accepted to AAAI2021.
+- *2024.05*: &nbsp;🎉🎉 one paper was accepted to ACL 2024.
+- *2024.01*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process. (TIP).
+- *2023.06*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI).
+- *2022.08*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Multimedia (TMM).
+- *2022.07*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process. (TIP).
+- *2020.12*: &nbsp;🎉🎉 one paper was accepted to AAAI 2021.
 
 
 
@@ -123,5 +124,5 @@ In AAAI Conference on Artificial Intelligence (AAAI), 2021.
 - *2022.10* Outstanding Graduate Student, Xidian University.
 
 # 📖 Educations
-- *2019.09 - 2024.05 (now)*, Xidian University, Ph.D., Major: Electronic Science and Technology.
+- *2019.09 - 2024.12*, Xidian University, Ph.D., Major: Electronic Science and Technology.
 - *2015.09 - 2019.06*, Xidian University, B.Eng., Major: Electronic Science and Technology.
