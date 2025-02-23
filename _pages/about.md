@@ -42,7 +42,7 @@ I am a Post-doc Fellow at the Department of Computer Science and Engineering, Ho
   
 Kun Wei, **Zhe Xu**, Cheng Deng\\
 
-In AAAI Conference on Artificial Intelligence (AAAI), 2025.</div>
+In AAAI Conference on Artificial Intelligence (AAAI), 2025.
 </div>
 </div>
 
