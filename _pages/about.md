@@ -35,7 +35,7 @@ I am a Post-doc Fellow at the Department of Computer Science and Engineering, Ho
 # 📝 Publications 
 (\* Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Compress to One Point: Neural Collapse for Pre-Trained Model-Based Class-Incremental Learning.](https://aclanthology.org/2024.acl-long.247.pdf)\\
