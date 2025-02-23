@@ -22,6 +22,7 @@ I am a Post-doc Fellow at the Department of Computer Science and Engineering, Ho
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 one paper was accepted to AAAI 2025.
 - *2024.05*: &nbsp;🎉🎉 one paper was accepted to ACL 2024.
 - *2024.01*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process. (TIP).
 - *2023.06*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI).
@@ -33,6 +34,16 @@ I am a Post-doc Fellow at the Department of Computer Science and Engineering, Ho
 
 # 📝 Publications 
 (\* Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Compress to One Point: Neural Collapse for Pre-Trained Model-Based Class-Incremental Learning.](https://aclanthology.org/2024.acl-long.247.pdf)\\
+  
+Kun Wei, **Zhe Xu**, Cheng Deng\\
+
+In AAAI Conference on Artificial Intelligence (AAAI), 2025.</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
