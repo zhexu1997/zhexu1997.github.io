@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Post-doc Fellow at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), working with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained my PhD from the School of Electronic Engineering, Xidain University, supervised by Professor [Cheng Deng](https://see.xidian.edu.cn/faculty/chdeng/). My research lies at the broad area of artificial intelligence and machine learning. I am interested in multi-modal learning, video understanding, and computational pathology
+I am a Post-doc Fellow at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), working with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained my PhD from the School of Electronic Engineering, Xidian University, supervised by Professor [Cheng Deng](https://see.xidian.edu.cn/faculty/chdeng/). My research lies at the broad area of artificial intelligence and machine learning. I am interested in multi-modal learning, video understanding, and computational pathology
 .
 
 
@@ -42,7 +42,7 @@ I am a Post-doc Fellow at the Department of Computer Science and Engineering, Ho
   
 Kun Wei, **Zhe Xu**, Cheng Deng\\
 
-In AAAI Conference on Artificial Intelligence (AAAI), 2025.
+AAAI Conference on Artificial Intelligence (AAAI), 2025.
 </div>
 </div>
 
@@ -78,7 +78,7 @@ ArXiv, 2024.
 
 Kun Wei, Xu Yang, **Zhe Xu**, Cheng Deng\\
 
-IEEE Trans. Image Process., 2024. (IF=10.6)
+IEEE Trans. Image Process., 2024. (IF=10.8)
 </div>
 </div>
 
@@ -90,7 +90,7 @@ IEEE Trans. Image Process., 2024. (IF=10.6)
 
 **Zhe Xu**, Kun Wei, Erkun Yang, Cheng Deng, Wei Liu\\
 
-IEEE Trans. Pattern Anal. Mach. Intell., 2023. (IF=23.6)
+IEEE Trans. Pattern Anal. Mach. Intell., 2023. (IF=20.8)
 </div>
 </div>
 
@@ -102,7 +102,7 @@ IEEE Trans. Pattern Anal. Mach. Intell., 2023. (IF=23.6)
 
 **Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng\\
 
-IEEE Trans. Multimedia, 2022. (IF=7.3)
+IEEE Trans. Multimedia, 2022. (IF=8.4)
 </div>
 </div>
 
@@ -114,7 +114,7 @@ IEEE Trans. Multimedia, 2022. (IF=7.3)
 
 **Zhe Xu**, Da Chen, Kun Wei, Cheng Deng, Hui Xue\\
 
-IEEE Trans. Image Process., 2022. (IF=10.6)
+IEEE Trans. Image Process., 2022. (IF=10.8)
 </div>
 </div>
 
@@ -126,7 +126,7 @@ IEEE Trans. Image Process., 2022. (IF=10.6)
   
 Xiangyu Li\*, **Zhe Xu**\*, Kun Wei, Cheng Deng\\
 
-In AAAI Conference on Artificial Intelligence (AAAI), 2021.
+AAAI Conference on Artificial Intelligence (AAAI), 2021.
 </div>
 </div>
 
